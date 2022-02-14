@@ -5,6 +5,7 @@ Generating Facial Images through Textual Descriptions
 Text to vision correlation has been a growing source of interest for NLP researchers around the world. Particular efforts in the area include scene descriptors for environmental surroundings which have shown promising results. Face descriptors however, remain a complicated yet interesting task with applications in fields ranging from generating videos from textual descriptions, sketching criminals based on textual description of their face, as well as in aiding the understanding of complicated textbooks for students with learning difficulties.
 
 Dataset used: https://arxiv.org/pdf/1803.03827.pdf
+
 Total Images in Dataset: 202,599
 
 ### Sample Dataset
